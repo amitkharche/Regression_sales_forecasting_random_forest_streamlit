@@ -77,8 +77,8 @@ sales_forecasting_project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/amitkharche/regression_projects.git
-cd regression_projects/regression_sales_forecasting_project_random_forest
+git clone https://github.com/amitkharche/Regression_sales_forecasting_random_forest_streamlit.git
+cd Regression_sales_forecasting_random_forest_streamlit
 ```
 
 ### 2️⃣ Install Dependencies
@@ -110,6 +110,12 @@ You can now:
 - View model predictions
 - Explore trends through interactive charts
 
+## 🖼️ Streamlit App UI
+
+<p align="center">
+  <img src="App_UI.jpg" alt="House Price Prediction App UI" width="700"/>
+</p>
+
 ---
 
 ## 📉 Evaluation Metrics
@@ -136,7 +142,12 @@ These metrics are printed in the console for reference.
 ## 🙋‍♂️ Author
 
 **Amit Kharche**  
-📬 [LinkedIn](https://www.linkedin.com/in/amitkharche)  
+## 🔗 Connect with Me
+
+* [🔗 LinkedIn](https://www.linkedin.com/in/amitkharche)
+* [📰 Newsletter – From Data to Decisions](https://www.linkedin.com/newsletters/from-data-to-decisions-7309470147277168640/)
+* [💻 GitHub](https://github.com/amitkharche)
+* [✍️ Medium](https://medium.com/@amitkharche14)
 
 ---
 
